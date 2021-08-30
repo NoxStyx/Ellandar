@@ -6,3 +6,6 @@ First version by Beth Daggert
 
 Source contains essentially no comments, information on algorithms 
 will be found in separate co-located files if available.
+
+Additional handwritten notes exist which might help to understand implementations, 
+if of interest let me know and I'll scan them.
