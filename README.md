@@ -11,5 +11,7 @@ Additional handwritten notes exist which might help to understand implementation
 if of interest let me know and I'll scan them.
 
 Examples of this code in action:
+
 Overworld: https://www.youtube.com/watch?v=XW7rCrfjyXo
+
 Sprite Editor: https://www.youtube.com/watch?v=CBmgCDNtSfQ
